@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Martsyalis/first-pwa/issues"
   },
-  "homepage": "https://github.com/Martsyalis/first-pwa#readme"
+  "homepage": "https://github.com/Martsyalis/first-pwa#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
